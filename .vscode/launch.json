@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LiverpoolApplication<Liverpool>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Futbol5.Liverpool.LiverpoolApplication",
+            "projectName": "Liverpool",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
